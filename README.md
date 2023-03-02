@@ -26,3 +26,6 @@ d) A sequência em questão é composta pelos quadrados dos números pares, a re
 e) 
 
 f) Talvez a resposta seja 20, que aqui não tenha lógica já que não existe padrão. Apenas posso afirmar que os últimos 4 números seguiram uma sequência.
+
+## 5) Escreva um programa que inverta os caracteres de um string:
+Seguindo as recomendações, segue a solução: [Acesse o código aqui.](https://github.com/YgorDoring/TargetSistemas/blob/master/src/main/kotlin/FifthQuestion/Main.kt)
