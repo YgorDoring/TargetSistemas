@@ -23,7 +23,7 @@ c)
 
 d) A sequência em questão é composta pelos quadrados dos números pares, a resposta da sequência é 100.
 
-e) 
+e) Tirando o zero, como mostrado inclusive no segundo desafio, a sequência em questão parece ser a fibonacci, logo, chuto que o resultado seja 13.
 
 f) Talvez a resposta seja 20, que aqui não tenha lógica já que não existe padrão. Apenas posso afirmar que os últimos 4 números seguiram uma sequência.
 
