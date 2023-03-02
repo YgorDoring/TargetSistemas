@@ -14,6 +14,19 @@ imprimir(SOMA);
 ```
 O valor da SOMA é 91, cheguei neste resultado de uma forma bem simples, escrevi esse pseudocódigo na linguagem Kotlin, você pode conferir [clicando AQUI](https://github.com/YgorDoring/TargetSistemas/blob/master/src/main/kotlin/FirstQuestion/Main.kt). Executando o código cheguei no resultado de 91.
 
+## 2) Retornando uma mensagem avisando se o número informado pertence ou não a sequência Fibonacci:
+Infelizmente agarrei neste desafio, foi meio complicado evoluir a lógica aqui. Contudo, encontrei este algoritmo em Python que me deu uma boa base de como avançar.
+```
+n = int(input())
+a, b = 0, 1
+
+while a < n:
+a, b = b, a + b
+
+print(a == n)
+```
+Você pode conferir o resultado final [clicando aqui](https://github.com/YgorDoring/TargetSistemas/blob/master/src/main/kotlin/SecondQuestion/Main.kt)...
+
 ## 3) Descubra a lógica e complete o próximo elemento:
 a) A sequência é composta pelos números ímpares consecutivos começando em 1. O próximo número seria 9.
 
@@ -27,7 +40,7 @@ e) Tirando o zero, como mostrado inclusive no segundo desafio, a sequência em q
 
 f) Talvez a resposta seja 20, acredito que aqui não tenha nenhuma lógica já que não existe padrão. Apenas posso afirmar que os últimos 4 números seguiram uma sequência.
 
-## 4) Dois veiculos ao se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
+## 4) Dois veículos ao se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
 A quarta questão parece complexa, mas, na verdade, não passa de uma pegadinha que desafia seu senso lógico. Aqui não há necessidade de NENHUM cálculo, afinal a pergunta em questão é: Ao se cruzarem, qual estará mais próximo da cidade de Ribeirão Preto?
 
 Horas... Imaginando o percurso como uma linha:
